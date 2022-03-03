@@ -57,4 +57,5 @@ Scanner scanner = new Scanner(System.in);
   方法体
   return 返回值
 }
-
+int[] nums; nums = new int[10]; arrays.length; nums[i]=1;
+int a[][] = new int[2][5];
