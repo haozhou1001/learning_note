@@ -59,3 +59,6 @@ Scanner scanner = new Scanner(System.in);
 }
 int[] nums; nums = new int[10]; arrays.length; nums[i]=1;
 int a[][] = new int[2][5];
+super.name; this.name
+override only depends on non static method, not static method
+
